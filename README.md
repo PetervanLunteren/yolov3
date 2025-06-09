@@ -1,3 +1,11 @@
+
+| [![PetervanLunteren](https://github.com/PetervanLunteren.png?size=100)](https://github.com/PetervanLunteren) | [![sfmig](https://github.com/bob.png?size=100)](https://github.com/sfmig) |
+|---|---|
+| [PetervanLunteren](https://github.com/PetervanLunteren) | [sfmig](https://github.com/sfmig) |
+
+
+
+
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov3" target="_blank">
